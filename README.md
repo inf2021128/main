@@ -1,12 +1,12 @@
 # Wellcome to Invicta  
 ## Organization members  
 
-| # | AM | Github profile |
+| Ονοματεπώνυμο | AM | Github profile |
 |------|----|-------------|
-| 1 | 2019130 | [Github profile](https://github.com/vasilis22)
-| 2 | 2019138 | [Github profile](https://github.com/thGoulianas)
-| 3 | 2019024 | [Github profile](https://github.com/VasilisG11)
-| 4 | 2019016 | [Github profile](https://github.com/Thomasth01)
+| Βασίλειος Τσουκάλης | 2019130 | [Github profile](https://github.com/vasilis22)
+| Θεόδωρος Γουλιάνας | 2019138 | [Github profile](https://github.com/thGoulianas)
+| Βασίλης Γκουλιώνης | 2019024 | [Github profile](https://github.com/VasilisG11)
+| Θωμάς Θεοδοσίου | 2019016 | [Github profile](https://github.com/Thomasth01)
 
 ## Please read the following  
 
