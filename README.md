@@ -9,6 +9,7 @@
 | Θωμάς Θεοδοσίου | 2019016 | [Github profile](https://github.com/Thomasth01)
 | Γιώργος Χήρας | 2019080 | [Github profile](https://github.com/GiorgosChiras)
 | Ιωάννα Παγούνη | 2019052 | [Github profile](https://github.com/p19pago)
+| Χρήστος Λαχανάς | 2018012 | [Github profile](https://github.com/chrislach1)
 
 
 ## Please read the following  
