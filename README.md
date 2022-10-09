@@ -8,6 +8,7 @@
 | Βασίλης Γκουλιώνης | 2019024 | [Github profile](https://github.com/VasilisG11)
 | Θωμάς Θεοδοσίου | 2019016 | [Github profile](https://github.com/Thomasth01)
 | Γιώργος Χήρας | 2019080 | [Github profile](https://github.com/GiorgosChiras)
+| Ιωάννα Παγούνη | 2019052 | [Github profile](https://github.com/p19pago)
 
 
 ## Please read the following  
