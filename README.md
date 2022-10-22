@@ -11,6 +11,7 @@
 | Ιωάννα Παγούνη | 2019052 | [Github profile](https://github.com/p19pago)
 | Χρήστος Λαχανάς | 2018012 | [Github profile](https://github.com/chrislach1)
 | Δέσποινα Μακρή | 2021128 | [Github profile](https://github.com/inf2021128)
+| Παναγιώτης Τραχανάς | 2021227 | [Github profile](https://github.com/PeterTrax)
 
 ## Please read the following  
 
